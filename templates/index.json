@@ -411,7 +411,6 @@
     },
     "featured-collection": {
       "type": "featured-collection",
-      "disabled": true,
       "settings": {
         "collection": "safraoui",
         "title": "Safraoui - AKELA",
