@@ -60,7 +60,7 @@
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
-        "heading": "You may also like",
+        "heading": "Das könnte dir auch gefallen",
         "show_quick_buy": false
       }
     },
