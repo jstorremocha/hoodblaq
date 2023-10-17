@@ -12,12 +12,6 @@
             "show_share_buttons": true
           }
         },
-        "296cda77-e47e-4754-9959-9ce7f85022e2": {
-          "type": "text",
-          "settings": {
-            "content": "<h1><em><strong>Wähle deine Stadt aus!<\/strong><\/em><\/h1>"
-          }
-        },
         "variant_selector": {
           "type": "variant_selector",
           "settings": {
@@ -65,7 +59,6 @@
       },
       "block_order": [
         "product_meta",
-        "296cda77-e47e-4754-9959-9ce7f85022e2",
         "variant_selector",
         "buy_buttons",
         "description",
