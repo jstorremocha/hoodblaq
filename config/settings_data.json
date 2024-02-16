@@ -225,6 +225,23 @@
       },
       "popups": {
         "type": "popups",
+        "blocks": {
+          "newsletter_hbrgXV": {
+            "type": "newsletter",
+            "settings": {
+              "show_only_on_index": true,
+              "show_only_for_visitors": true,
+              "show_only_once": true,
+              "title": "Geänderte Tourdaten",
+              "content": "<h5><em><strong>Neue Termine: <\/strong><\/em><\/h5><h5><em>So 06.10.2024: Zoom \/  Frankfurt<\/em><\/h5><h5><em>Mo 07.10.2024: Zenith \/  München<\/em><\/h5><h5><em>Mi 09.10.2024: LKA Longhorn \/ Stuttgart<\/em><\/h5><h5><em>Do 10.10.2024: E Werk \/ Köln<\/em><\/h5><h5><em>Sa 12.10.2024: Friedrich Ebert Halle \/  Ludwigshafen<\/em><\/h5><h5><em>Mo 14.10.2024: Columbiahalle \/ Berlin<\/em><\/h5><h5><em>Di 15.10.2024: Docks \/ Hamburg<\/em><\/h5><h5><em>Mi 16.10.2024: Capitol \/ Hannover<\/em><\/h5><h5><em><strong>Alle für März\/April gekauften Tickets behalten ihre Gültigkeit!<\/strong><\/em><\/h5>",
+              "show_newsletter": false,
+              "apparition_delay": 5
+            }
+          }
+        },
+        "block_order": [
+          "newsletter_hbrgXV"
+        ],
         "settings": {
         }
       },
