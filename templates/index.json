@@ -11,6 +11,16 @@
         "button_link": "shopify:\/\/collections\/all"
       }
     },
+    "rich_text_JbDnDF": {
+      "type": "rich-text",
+      "settings": {
+        "text_width": "narrow",
+        "title": "Achtung Inventur!",
+        "content": "<h6>Bitte beachtet, dass unser System zwischen dem 26. und 29. Februar wegen Inventur nicht verfügbar sein wird. Ihr könnt in dieser Zeit immer noch Bestellungen aufgeben, aber sie werden nicht vor dem 01. März ausgeführt. Außerdem kann es zu Verzögerungen bei der Beantwortung eurer Emails kommen. <br\/>Vielen Dank für euer Verständnis. <\/h6>",
+        "button_text": "",
+        "button_link": "shopify:\/\/collections\/all"
+      }
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -526,6 +536,7 @@
   },
   "order": [
     "fc6b99b4-7b3b-4cac-b837-93c99192edda",
+    "rich_text_JbDnDF",
     "slideshow",
     "f2af40f5-1458-4998-a36a-9e89ab416c98",
     "featured-collection",
