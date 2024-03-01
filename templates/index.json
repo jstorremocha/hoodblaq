@@ -13,6 +13,7 @@
     },
     "rich_text_JbDnDF": {
       "type": "rich-text",
+      "disabled": true,
       "settings": {
         "text_width": "narrow",
         "title": "Achtung Inventur!",
